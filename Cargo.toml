@@ -1,5 +1,5 @@
 [package]
-name = "glew-rs"
+name = "glew"
 version = "0.1.0"
 authors = ["Alec Keen <aleckeen@tutanota.com>"]
 edition = "2018"
